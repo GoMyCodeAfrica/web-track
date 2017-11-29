@@ -1,0 +1,42 @@
+1-What to take from FullStackJS :
+
+  1.1-For beginner level of web dev :
+      0-CS_Basics
+      1_1_Intro_to_HTML
+      1_2_HTML_multimedia_and_embedding
+      1_3_HTML_forms
+      1_4_Intro_to_CSS
+      1_5_project_build_your_portfolio
+      1_6_intro_javascript
+      1_8_quiz0_css_basics
+      1_9_javascript_beginners_hackathon_part1  ---> make it more beginner, with beginner functions
+      2_1_project_responsive_portfolio
+      4_1_Intro_to_jquery
+
+  1.2-For intermediate level of web dev :
+
+  1.3-For advandced level of web dev : 
+
+
+
+2-What to add ourselves :
+  
+  2.1-For beginner level of web dev :
+      -Intro to server side programming
+      -Intro to php 
+      -php project : make a simple app (logging , maths)
+      -intro to SQL (CRUD)
+      -sql project : modify the tables
+      
+  2.2-For intermediate level of web dev :
+      - intro to ajax
+      - ajax project : live commenting
+      - intro to react (composants oriented programming)
+      - intro to MVC
+      - react project : refractor my app
+      - intro to web services
+      
+      
+  2.3-For advandced level of web dev : 
+      - intro to laravel
+      - 
